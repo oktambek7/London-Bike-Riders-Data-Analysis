@@ -42,3 +42,9 @@ external factors affecting rider behavior.
 ## Outcome & Business Value
 This analysis enables data-driven urban mobility planning, operational optimization,
 and improved understanding of rider behavior under varying conditions.
+
+## How to Run
+1. Load raw data into SQL Server / Python
+2. Execute ETL scripts
+3. Import clean dataset or views into Power BI
+4. Explore dashboards and insights.
